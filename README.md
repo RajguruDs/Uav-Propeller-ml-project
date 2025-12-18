@@ -1,1 +1,0 @@
-# UAV-Propeller-ml-project
